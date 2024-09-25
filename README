@@ -1,0 +1,42 @@
+# Projetos de Cálculo de Faturamento e Sequência de Fibonacci
+
+Este repositório contém programas em Python para calcular:
+- A soma dos números até um índice.
+- A sequência de Fibonacci e verificar se um número pertence a ela.
+- Analisar faturamento diário de uma distribuidora (menor, maior e dias acima da média).
+- Calcular o percentual de faturamento por estado.
+- Inverter os caracteres de uma string.
+
+## Estrutura dos Arquivos
+
+- `CalculoFaturamento.py`: Calcula e analisa o faturamento mensal.
+- `Faturamento.json`: Dados de faturamento diário.
+- `Fibonacci.py`: Verifica se um número pertence à sequência de Fibonacci.
+- `InverterString.py`: Inverte os caracteres de uma string.
+- `PercentualFaturamento.py`: Calcula o percentual de faturamento por estado.
+- `VariavelSoma.py`: Inverte os caracteres de uma string.
+
+## Como Executar
+
+1. **CalculoFaturamento.py**
+   - Crie um arquivo `Faturamento.json` com dados de faturamento.
+   - Execute: `python CalculoFaturamento.py`
+
+2. **Fibonacci.py**
+   - Execute: `python Fibonacci.py`
+
+3. **InverterString.py**
+   - Execute: `python InverterString.py`
+
+4. **PercentualFaturamento.py**
+   - Execute: `python PercentualFaturamento.py`
+
+5. **VariavelSoma.py**
+   - Execute: `python VariavelSoma.py`
+
+## Ou execute em uma IDE de sua preferencia. :D
+
+Contribuições são bem-vindas!
+
+
+
